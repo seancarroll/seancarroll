@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Projects
+
+### Contact
+You can find me on Twitter @seancarroll_ 
