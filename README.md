@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ### Projects
 
 ### Contact
-You can find me on Twitter @seancarroll_ 
+You can find me on Twitter [@seancarroll_](https://twitter.com/seancarroll_) or Mastodon <a rel="me" href="https://hachyderm.io/@seancarroll">hachyderm.io/@seancarroll</a>
