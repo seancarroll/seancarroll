@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ### Projects
 
 ### Contact
-You can find me on Bluesky [@scarroll.bsky.social]([https://twitter.com/seancarroll_](https://bsky.app/profile/scarroll.bsky.social))
+You can find me on Bluesky [@scarroll.bsky.social](https://bsky.app/profile/scarroll.bsky.social)
